@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReuseTC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1751de6-87c6-4ab7-b8a1-127cf811f76b</testCaseGuid>
+   <variable>
+      <defaultValue>'Pugazh\r\n'</defaultValue>
+      <description></description>
+      <id>b89fb16c-bead-468f-ab1a-dd83459b4648</id>
+      <masked>false</masked>
+      <name>uname</name>
+   </variable>
+</TestCaseEntity>

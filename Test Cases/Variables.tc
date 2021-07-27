@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Variables</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72046f5f-d856-4daf-97c8-ed6b48494cac</testCaseGuid>
+   <variable>
+      <defaultValue>'Ramya Sita\r\n'</defaultValue>
+      <description></description>
+      <id>05fff9a4-8297-49e2-bea1-81f001416a94</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>
